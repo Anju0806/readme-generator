@@ -1,34 +1,17 @@
 
-    https://img.shields.io/badge/License-MIT-yellow.svg
+    # fbaf
 
-    # currency converter
-      
-    
+    [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
     ## Description
-      - learning experiance,finance magt
-      - jbvkc jhvjyt
-      - gvkujvl jhvluyvliuh
+      - adfbdf
+      - sdfgb
+      - sdgb
   
-    ## Table of Contents
-   - [Installation](#installation)
-   - [Tests](#tests)
-   - [License](#license)
-   - [Questions](#questions)
-
-    ## Installation
-    1. jblib
-    2. aethbasrtn
-    3. srthnsryn
-
-    ## Tests
-    1. hvjv ik
-    2. aerbae
-    3. atba
-
     ## License
       This project is licensed under the MIT license.
       https://opensource.org/licenses/MIT
 
     ## Questions
-       GitHub Profile: https://github.com/nkjbvi
-       Email: kjbvi
+       GitHub Profile: https://github.com/sfg
+       Email: sfg
