@@ -1,45 +1,34 @@
 
-    [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
-    # dcew wefc
+    # currency converter
       
     
     ## Description
-      - ewfcd
-      - efwd
-      - EWRG
+      - learning experiance,finance magt
+      - jbvkc jhvjyt
+      - gvkujvl jhvluyvliuh
   
     ## Table of Contents
    - [Installation](#installation)
-   - [Usage](#usage)
-   - [Credits](#credits)
-   - [Contribution Guidelines](#contributionguidelines)
    - [Tests](#tests)
    - [License](#license)
    - [Questions](#questions)
 
     ## Installation
-    1. ETFEB
-
-    ## Usage
-    ![ScreenShot1](BTASBET)
-    ![ScreenShot2](ETA)
-
-    ## Credits
-    - SERTB
-    - SETB
-
-    ## Contribution Guidelines
-       AERG EVAE AERVE
+    1. jblib
+    2. aethbasrtn
+    3. srthnsryn
 
     ## Tests
-    1. WFWRE
-    2. EARGAER
+    1. hvjv ik
+    2. aerbae
+    3. atba
 
     ## License
-      This project is licensed under the GPLv3 license.
-      https://opensource.org/licenses/GPLv3
+      This project is licensed under the MIT license.
+      https://opensource.org/licenses/MIT
 
     ## Questions
-       GitHub Profile: https://github.com/AERG
-       Email: AERG
+       GitHub Profile: https://github.com/nkjbvi
+       Email: kjbvi
