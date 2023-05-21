@@ -5,16 +5,16 @@ function renderLicenseBadge(data) {
       switch (data.license) {
         case 'MIT':
           /* badge = '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]'; */
-          badge = 'https://img.shields.io/badge/License-MIT-yellow.svg';
+          badge = '![License](https://img.shields.io/badge/License-MIT-yellow.svg)';
           break;
         case 'Apache 2.0':
-          badge = '[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]';
+          badge = '![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)';
           break;
         case 'GPLv3':
-          badge = '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]';
+          badge = '![License](https://img.shields.io/badge/License-GPLv3-blue.svg)';
           break;
         case 'ISC':
-          badge = '[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]';
+          badge = '![License](https://img.shields.io/badge/License-ISC-blue.svg)';
           break;
         default:
           badge = '';
