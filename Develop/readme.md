@@ -10,7 +10,7 @@
    - [Installation](#installation)
    - [Usage](#usage)
    - [Credits](#credits)
-   - [Contribution Guidelines](#contribution guidelines)
+   - [Contribution Guidelines](#contributionguidelines)
    - [Tests](#tests)
    - [License](#license)
    - [Questions](#questions)
