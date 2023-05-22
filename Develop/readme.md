@@ -1,17 +1,43 @@
 
-    # fbaf
+  # Readme Generator
 
-    [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+    ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-    ## Description
-      - adfbdf
-      - sdfgb
-      - sdgb
-  
-    ## License
-      This project is licensed under the MIT license.
-      https://opensource.org/licenses/MIT
+  ## Description
+  - The README Generator is a command-line application that helps users generate professional README files for their projects. It uses user input to dynamically create a README file with sections such as project title, description, installation instructions, usage guidelines, license information
 
-    ## Questions
-       GitHub Profile: https://github.com/sfg
-       Email: sfg
+  ## Table of Contents
+   - [Installation](#installation)
+   - [Usage](#usage)
+   - [Credits](#credits)
+   - [Contribution Guidelines](#contribution guidelines)
+   - [Tests](#tests)
+   - [License](#license)
+   - [Questions](#questions)
+
+  ## Installation
+    1. Clone the repo to local machine
+    2. Navigate to project directory
+    3. run 'npm install'
+    4. start application by running 'node index.js'
+
+  ## Usage
+    ![ScreenShot1](./assets/images/img1)
+
+  ## Credits
+    - Anju
+
+  ## Contribution Guidelines
+    Welcoming and open policy to contribute
+
+  ## Tests
+    1. Currently no test available
+    2. contributions are welcomed
+
+  ## License
+    This project is licensed under the MIT license.
+    https://opensource.org/licenses/MIT
+
+  ## Questions
+    GitHub Profile: https://github.com/anju0806
+    Email: anjualfino@gmail.com

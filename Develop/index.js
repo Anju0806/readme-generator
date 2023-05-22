@@ -34,23 +34,13 @@ const questions = [
     type: 'input',
     message: 'Why did you build this project?',
     name: 'projectReason',
-    validate: function (value) {
-      if (value.length == 0) {
-        return 'Please enter a valid input.';
-      }
-      return true;
-    }
+    
   },
   {
     type: 'input',
     message: 'What problem did it solve?',
     name: 'problemSolved',
-    validate: function (value) {
-      if (value.length == 0) {
-        return 'Please enter a valid input.';
-      }
-      return true;
-    }
+    
   },
 
   {
