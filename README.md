@@ -22,7 +22,8 @@
     4. start application by running 'node index.js'
 
   ## Usage
-    ![ScreenShot1](./assets/images/img1)
+    Video link:
+    https://watch.screencastify.com/v/K67ZjbrojvVpgA2N32e4
 
   ## Credits
     - Anju
