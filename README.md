@@ -24,6 +24,7 @@
   ## Usage
     Video link:
     https://watch.screencastify.com/v/K67ZjbrojvVpgA2N32e4
+    Generated Readme file path: Develop/readme.md
 
   ## Credits
     - Anju
