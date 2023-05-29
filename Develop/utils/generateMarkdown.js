@@ -144,7 +144,7 @@ function generateMarkdown(data) {
   badge = renderLicenseBadge(data);
   let markdown = `
   # ${data.title}\n
-    ${badge}\n
+${badge}\n
   ## Description\n`
   if(data.motivation){
     markdown+=`  - ${data.motivation}\n`

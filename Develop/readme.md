@@ -1,14 +1,13 @@
 
   # Readme Generator
 
-    ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
   - The README Generator is a command-line application that helps users generate professional README files for their projects. It uses user input to dynamically create a README file with sections such as project title, description, installation instructions, usage guidelines, license information
 
   ## Table of Contents
    - [Installation](#installation)
-   - [Usage](#usage)
    - [Credits](#credits)
    - [Contribution Guidelines](#contributionguidelines)
    - [Tests](#tests)
@@ -21,18 +20,14 @@
     3. run 'npm install'
     4. start application by running 'node index.js'
 
-  ## Usage
-    ![ScreenShot1](./assets/images/img1)
-
   ## Credits
-    - Anju
+    - anju
 
   ## Contribution Guidelines
     Welcoming and open policy to contribute
 
   ## Tests
     1. Currently no test available
-    2. contributions are welcomed
 
   ## License
     This project is licensed under the MIT license.
